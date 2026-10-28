@@ -1,0 +1,13 @@
+
+# Dependencias de Node.js
+node_modules/
+**/node_modules/
+
+# Archivos generados
+dist/
+**/dist/
+
+# Variables de entorno y claves privadas
+.env
+.env.*
+!.env.example
